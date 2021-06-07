@@ -30,9 +30,7 @@
 .buttons {
   display: flex;
   justify-content: space-around;
-  /* margin: auto; */
   margin: 2em 0;
-  align-items: center;
 }
 
 h3 {
@@ -42,7 +40,6 @@ h3 {
 }
 h4 {
   text-align: center;
-  font-size: var(--font-text);
   font-family: var(--font-serif);
   color: rgb(82, 76, 76);
 }
